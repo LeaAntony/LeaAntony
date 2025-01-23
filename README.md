@@ -1,25 +1,25 @@
 ## 💫 About Me:
 🔭 I’m currently studying on informatics engineering at Politeknik Negeri Batam<br>🌱 I'm currently learning web and mobile development
 
-<center>
+<div align="center">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeaAntony/LeaAntony/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeaAntony/LeaAntony/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/LeaAntony/LeaAntony/output/github-snake.svg" />
     </picture>
-</center>
+</div>
 
 ## 🌐 Socials:
-<center>
+<div align="center">
     <a href="https://instagram.com/leaantony17" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://linkedin.com/in/lea-antony" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://stackoverflow.com/users/29324965" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
     <a href="https://twitch.tv/leants7" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
     <a href="https://youtube.com/@leaantony17" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-</center>
+</div>
 
 ## 💻 Tech Stack:
-<center>
+<div align="center">
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" alt="Apache">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"> 
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva">
@@ -41,30 +41,30 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-</center>
+</div>
 
 ## 📊 GitHub Stats:
-<center>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LeaAntony&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeaAntony&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaAntony&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</center>
+</div>
 
 ### ✍️ Today Dev Quote
-<center>
+<div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
-</center>
+</div>
 
 ### 🔝 Top Contributed Repo
-<center>
+<div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=LeaAntony&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</center>
+</div>
 
 ---
-<center>
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=LeaAntony&icon=0&color=1)](https://visitcount.itsvg.in)
 
-</center>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

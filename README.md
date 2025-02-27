@@ -1,4 +1,5 @@
 ## 💫 About Me:
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=timeGradient&text=Leant&desc=Live%20A%20Life%20You%20Will%20Remember"> </p>
 🔭 I’m currently studying on informatics engineering at Politeknik Negeri Batam<br>🌱 I'm currently learning web and mobile development
 
 <div align="center">
@@ -46,13 +47,7 @@
 ## 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LeaAntony&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"></br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeaAntony&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats"></br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaAntony&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
-
-### ✍️ Today Dev Quote
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
 </div>
 
 ### 🔝 Top Contributed Repo
@@ -60,11 +55,9 @@
     <img src="https://github-contributor-stats.vercel.app/api?username=LeaAntony&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>
 
----
+### 🧑‍💼 Visitors (Since 2025/01/01)
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=LeaAntony&icon=0&color=1)](https://visitcount.itsvg.in)
-
+    <img src="https://count.getloli.com/get/@LeaAntony?theme=miku"> <br/>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
